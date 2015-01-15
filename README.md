@@ -40,7 +40,7 @@ Usage
 Basic example:
 
 ```javascript
-var Butter = require('butter.js');
+var Butter = require('butterjs');
 
 var churn = new Butter(startCount, endCount, totalChurn, activity, days).churn();
 
