@@ -22,8 +22,6 @@ days that they could have churned.
 You can aggregate that probability across all of your customers and come up with a
 more accurate churn rate.
 
-Background
-----------
 
 * [A Better Way to Calculate Your Churn Rate](https://blog.recurly.com/2014/08/better-way-to-calculate-your-churn-rate)
 
