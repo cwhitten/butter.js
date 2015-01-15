@@ -31,7 +31,7 @@ Install
 -------
 
 ```
-npm install butter.js
+npm install butterjs
 ```
 
 Usage
